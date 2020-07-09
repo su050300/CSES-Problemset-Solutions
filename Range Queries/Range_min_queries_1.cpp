@@ -34,6 +34,8 @@ ll query(ll ind,ll start,ll end,ll l,ll r)
 }
 int main()
 {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
     ll n,q;
     cin>>n>>q;
     for(int i=0;i<n;i++)
