@@ -26,14 +26,6 @@ int main()
             }
         }
     }
-    // for(int i=0;i<n;i++)
-    // {
-    //     for(int j=0;j<25;j++)
-    //     {
-    //         cout<<lift[i][j]<<" ";
-    //     }
-    //     cout<<endl;
-    // }
     for(int i=0;i<q;i++)
     {
         ll x,y;
