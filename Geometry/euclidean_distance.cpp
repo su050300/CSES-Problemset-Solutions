@@ -85,7 +85,7 @@ void solve()
     }
     t.resize(n);
     sort(a.begin(), a.end(), cmp_x());
-    mindist = 1e18;
+    mindist = 9e18;
     rec(0, n);
     cout << mindist;
 }
